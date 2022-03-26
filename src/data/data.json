@@ -1,0 +1,108 @@
+{
+  "Header": {
+    "title": "Hệ thống học vẽ tranh trực tuyến Kids Painting",
+    "paragraph": "Nơi ươm mầm cảm xúc."
+  },
+  "About": {
+    "paragraph": "Chúng ta thấy rằng tất cả mọi trẻ em đều biết vẽ trước khi biết viết, biết hát trước khi biết nói. Khi khả năng ngôn ngữ phát triển chưa hoàn thiện thì hội họa là phương tiện để biểu đạt hiệu quả và lý thú nhất. Tranh vẽ có giá trị giáo dục rất lớn đối với trẻ. Trẻ em thích vẽ tranh dù chỉ mới là những bức tranh vẽ theo cảm hứng, động tác vụng về nhưng vẫn là cách trẻ thể hiện “tài năng” của mình. Trẻ được tự do tưởng tượng, bộc lộ niềm vui, ý thích của mình trong tranh, phát triển khả năng tư duy sáng tạo của trẻ. Đó chính là cảm xúc, tình cảm, ước mơ khám phá thế giới thật mới lạ xung quanh mà trẻ thể hiện trên trang giấy. Tranh vẽ chính là một phương pháp truyền đạt thông tin khá hiệu quả của trẻ.",
+    "Why": [
+      "Một môi trường SÁNG TẠO, được học phương pháp tư duy ý tưởng và được khuyến khích bạn “bùng nổ” tất cả những sáng kiến trong đầu.",
+      "Các khóa học được thiết kế bài bản, theo mức độ, thể loại"
+    ],
+    "Why2": [
+      "Đội ngũ giáo viên chất lượng, tâm huyết",
+      "Học online phù hợp với tình hình dịch bệnh và an toàn cho trẻ"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Blog": [
+    {
+      "name": "Nếu không có ước mơ",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "name": "Mục tiêu của học mỹ thuật: cân bằng cảm xúc",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "name": "Cho trẻ học những gì để phát triển tư duy sáng tạo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "name": "Học mỹ thuật giúp trẻ phát triển kỹ năng mềm",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "name": "Vì sao thiếu niên tuổi tiên nên học mỹ thuật",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "name": "Cho trẻ em học gì để phát triển não trái não phải",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Contact": {
+    "address": "Ho Chi Minh city, Thu Duc",
+    "phone": "+1 123 456 1234",
+    "email": "kidspainting@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Course": [
+    {
+      "img": "https://www.baobaclieu.vn/uploads/image/2021/08/11/8-1.jpg",
+      "title": "Gieo Hạt (4-6 tuổi)",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.",
+      "courseDescription": "<p class=\"ql-align-justify\">Ở ngưỡng tuổi từ 6 – 9 tuổi, bé sẽ đặc biệt&nbsp;chú ý vào thế giới bên trong của chính mình, là điều kiện thích hợp nhất để trẻ phát triển đời sống tinh thần và nghệ thuật. Do đó, đây là giai đoạn thích hợp nhất để học vẽ.</p>",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    }
+  ]
+}
