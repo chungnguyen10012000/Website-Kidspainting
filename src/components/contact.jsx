@@ -44,7 +44,7 @@ export const Contact = (props) => {
                   Vui lòng điền đầy đủ thông tin bên dưới. Chúng tôi sẽ liên hệ cho bạn sớm nhất!
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form name='sentMessage' onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
