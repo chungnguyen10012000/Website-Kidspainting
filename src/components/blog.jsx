@@ -1,10 +1,11 @@
 import React from 'react';
+import '../assets/css/course.css'
 
 export const Blog = (props) => {
   return (
     <div id='blog' className='text-center'>
       <div className='container'>
-        <div className='section-title'>
+        <div className='row section-title'>
           <h2>Blog</h2>
           <p>
             Chia sẽ hiểu biết về vẽ tranh cho trẻ
