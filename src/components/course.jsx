@@ -9,10 +9,10 @@ export const Courses = (props) => {
           <h2>Khám phá khóa học</h2>
         </div>
         <div className="row">
-            <div class="search">
-              <input type="text" class="searchTerm" placeholder="Tìm kiếm ..." />
-                <button type="submit" class="searchButton">
-                  <i class="fa fa-search"></i>
+            <div className="search">
+              <input type="text" className="searchTerm" placeholder="Tìm kiếm ..." />
+                <button type="submit" className="searchButton">
+                  <i className="fa fa-search"></i>
                 </button>
             </div>
         </div>
